@@ -43,7 +43,7 @@
 <li>Contiene 2 ventanas de información de errorres que aparecen en dado caso el texto ingresado tiene caracteres no permitidos.</li>
 <li>El diseño de la aplicación fue dado por Alura Latam.</li>
 
-<h2 align="center">Diseño</h2>  
+<h2 align="center">Diseño Figma</h2>  
 <div align="center">
 <a href="https://www.figma.com/file/trP3p5nEh7XUyB3n2bomjP/Alura-Challenge---Desaf%C3%ADo-1---L%C3%B3gica?type=design&node-id=0%3A1&t=9myEwktc7qbubFhh-1">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwEhtpqO4L5HLySpcSuXd3DDAtV9mJOZjSPw&usqp=CAU" width="200">   
