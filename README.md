@@ -56,7 +56,8 @@
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8G3AOduV-0IJPNMBhNduWSn7Bb-x3-B8ffA&usqp=CAU" width="100">
 </div>
 <li>🚨La aplicación no admite texto que contengan acentos, caracteres especiales o letras mayúsculas.🚨</li>
-<li>🚨Si la palabra no esta encriptado antes de darle al botón desencriptad la aplicación no lo reconocera.🚨</li>
+<li>🚨Si la palabra no esta encriptado antes de darle al botón desencriptar la aplicación no lo reconocera.🚨</li>
+<li>🚨Si no se le agrega un texto al momento de darle encriptar o desencriptar la aplicación no hara nada.🚨</li>
 
 <h2 align="center"> Vista del programa <br> </h2>
 <div align="center">
