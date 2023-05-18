@@ -39,8 +39,3 @@ Restricciones:
 🚨La página web se restringe a través de los textos o palabras ingresadas, es decir no admite palabras que tengan acentos, caracteres y letras mayúsculas. Los caracteres se basan en las posibilidades de que el usuario pueda escribir alguno. Si el usuario ingresa alguna palabra o frase con acentos, caracteres o letras en mayúsculas, el programa no procederá a hacer la operación de encriptado.
 
 Link de la página:
-
-    <h1>Encriptador</h1>
- <a href="">
-    <img src="src="https://camo.githubusercontent.com/3f327dc5c0520cb7aef930ac5b71020dcc29b844c96d1baf16c0ae57ae316c14/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c6a73" alt="">
-   </a>  
