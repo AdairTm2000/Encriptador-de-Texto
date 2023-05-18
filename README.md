@@ -63,3 +63,13 @@
 <div align="center">
    <img src="https://i.ibb.co/nPtMWYx/Encriptador.png" alt="Encriptador">
 </div>
+
+<h2 align="center"> Autor <br> </h2>
+<div align="center">
+   <a href="https://www.linkedin.com/in/adair-trejo-morales-9494aa262">
+      <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="50">
+   </a>
+   <a href="https://www.linkedin.com/in/adair-trejo-morales-9494aa262">
+      <img src="https://cdn-icons-png.flaticon.com/128/270/270798.png" width="50">
+   </a>
+</div>
