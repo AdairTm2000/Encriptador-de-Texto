@@ -37,7 +37,7 @@
 
 <h2 align="center"> Sobre el programa </h2>
 <p> El proyecto son con fines de demostración </p>
-<li> El programa cuenta con dos areas de texto uno donde el usuario ingresara el texto y el otro donde se dara el resultado.</li>
+<li> El programa cuenta con dos areas de texto uno donde el usuario ingresara el texto que quiera encriptar y el otro donde se dara el resultado.</li>
 <li> Contiene 3 botones, el primero para encriptar, el segundo para desencriptar y el tercero aparece cuando ya has usado cualquiera de los anteriores y su función es copiar al portapapeles el resultado.</li>
 <li> Al encriptar un texto, el resultado aparecerá en el area de texto del area derecha si está en una computadora, si está en un dispositivo móvil, aparecerá debajo de los botones.
 <li> Contiene 2 ventanas de información de errorres que aparecen en dado caso el txto ingresado tiene caracteres no permitidos.</li>
