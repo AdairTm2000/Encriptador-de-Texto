@@ -13,10 +13,10 @@
 <h2 align="center"> Objetivo </h2>
 <p align="center">
 💥Encriptar las palabras o el texto ingresados por el usuario 💥 <br>  
-💥ser capaz de volver a desencriptar
+💥Ser capaz de volver a desencriptar
  </p>
  
-<h2 align="center"> "llaves" de encriptación </h2>
+<h2 align="center"> "Llaves" de encriptación </h2>
 <div align="center">
   <p>
     La letra "e" es convertida para "enter"
