@@ -12,8 +12,8 @@
 
 <h2 align="center"> Objetivo </h2>
 <p align="center">
-💥Encriptar las palabras o el texto ingresados por el usuario 💥 <br>  
-💥Ser capaz de volver a desencriptar
+💥 Encriptar las palabras o el texto ingresados por el usuario 💥 <br>  
+💥 Ser capaz de volver a desencriptar 💥
  </p>
  
 <h2 align="center"> "Llaves" de encriptación </h2>
