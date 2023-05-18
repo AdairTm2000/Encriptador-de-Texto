@@ -41,6 +41,7 @@
 <li>Contiene 3 botones, el primero para encriptar, el segundo para desencriptar y el tercero aparece cuando ya has usado cualquiera de los anteriores y su función es copiar al portapapeles el resultado.</li>
 <li>Al encriptar un texto, el resultado aparecerá en el area de texto del area derecha si está en una computadora, si está en un dispositivo móvil, aparecerá debajo de los botones.
 <li>Contiene 2 ventanas de información de errorres que aparecen en dado caso el texto ingresado tiene caracteres no permitidos.</li>
+<li>La aplicación web es responsiva.</li>
 <li>El diseño de la aplicación fue dado por Alura Latam.</li>
 
 <h2 align="center">Diseño Figma</h2>  
