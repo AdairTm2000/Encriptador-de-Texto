@@ -37,17 +37,18 @@
 
 <h2 align="center"> Sobre el programa </h2>
 <p> El proyecto son con fines de demostración </p>
-<li> El programa cuenta con dos areas de texto uno donde el usuario ingresara el texto que quiera encriptar y el otro donde se dara el resultado.</li>
-<li> Contiene 3 botones, el primero para encriptar, el segundo para desencriptar y el tercero aparece cuando ya has usado cualquiera de los anteriores y su función es copiar al portapapeles el resultado.</li>
-<li> Al encriptar un texto, el resultado aparecerá en el area de texto del area derecha si está en una computadora, si está en un dispositivo móvil, aparecerá debajo de los botones.
-<li> Contiene 2 ventanas de información de errorres que aparecen en dado caso el texto ingresado tiene caracteres no permitidos.</li>
+<li>El programa cuenta con dos areas de texto uno donde el usuario ingresara el texto que quiera encriptar y el otro donde se dara el resultado.</li>
+<li>Contiene 3 botones, el primero para encriptar, el segundo para desencriptar y el tercero aparece cuando ya has usado cualquiera de los anteriores y su función es copiar al portapapeles el resultado.</li>
+<li>Al encriptar un texto, el resultado aparecerá en el area de texto del area derecha si está en una computadora, si está en un dispositivo móvil, aparecerá debajo de los botones.
+<li>Contiene 2 ventanas de información de errorres que aparecen en dado caso el texto ingresado tiene caracteres no permitidos.</li>
+<li>El diseño de la aplicación fue dado por Alura Latam.</li>
 
 <h2 align="center"> Restricciones </h2>
 <div align="center">
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8G3AOduV-0IJPNMBhNduWSn7Bb-x3-B8ffA&usqp=CAU" width="100">
 </div>
 <li>🚨La aplicación no admite texto que contengan acentos, caracteres especiales o letras mayúsculas.🚨</li>
-<li> 🚨Si la palabra no esta encriptado antes de darle al botón desencriptad la aplicación no lo reconocera🚨 </li>
+<li>🚨Si la palabra no esta encriptado antes de darle al botón desencriptad la aplicación no lo reconocera.🚨</li>
 
 <h2 align="center"> Vista del programa <br> </h2>
 <div align="center">
