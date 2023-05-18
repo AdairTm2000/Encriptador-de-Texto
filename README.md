@@ -61,5 +61,3 @@
 <div align="center">
    <img src="https://i.ibb.co/nPtMWYx/Encriptador.png" alt="Encriptador">
 </div>
-
-<p> <br> Link de la aplicación: https://adairtm2000.github.io/Encriptador-de-Texto/ </p
