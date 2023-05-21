@@ -14,11 +14,11 @@ const textResultado = document.querySelector(".textResultado");
 let matrizCodigoCarac = ["é", "í", "á", "ó", "ú" , "!", "@", "#", "$", "^", "&", "%", "*", "(", ")", "+", "=", "-", "[", "]", "{", "}", "|", ":", "<", ">", "?", ",", ".", "¿", "¡", "´", "/"];
 let errores = false; //variable auxiliar para detectar errores en los carcateres
 let cont = 0; //variable auxiliar para detectar si el texto ingresado ya esta encriptado
-let matrizCodigo = [["e", "enter"],
-                        ["i", "imes"], 
-                        ["a", "ai"],
-                        ["o", "ober"],
-                        ["u", "ufat"]];
+let matrizCodigo = [["a", "ai"],
+                    ["e", "enter"],
+                    ["i", "imes"], 
+                    ["o", "ober"],
+                    ["u", "ufat"]];
 
 /* Ajuste de resolución */
 function resultadoCelular() {
